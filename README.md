@@ -28,20 +28,17 @@
 
 ---
 🔭 I’m currently working on:
-- ⚙️ Automating data pipelines with Python & Airflow
 - 🧠 Building an AI-powered trading system using Freqtrade
-- ☁️ Exploring serverless architectures on AWS & GCP
+
 
 🌱 I’m learning:
 - System design patterns for scalable applications
-- Advanced cloud DevOps practices
 - Clean architecture & testing for Python APIs
 
 
 
 📌 Featured Projects:
 
-- 🚘 Connected Systems Support – Real-time incident handling for Toyota Motors' connected vehicles (Infosys)
 - 📊 NZ Superfund Director Network Analysis – Visualizing director influence using Python & NetworkX
 - 🤖 AI-Powered Crypto Trading System – Strategy development, risk prediction, and margin automation (Freqtrade, Docker)
 - 🛒 Digital Marketplace Platform – Full-stack Django + Stripe e-commerce project
@@ -51,7 +48,7 @@
 📫 How to reach me:
 - 🌐 Website: https://siddharthnayak.pythonanywhere.com
 - 📧 Email: siddharthnayak128@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/siddharth-nayak](https://linkedin.com/in/siddharth-nayak)
+- 💼 LinkedIn: [linkedin.com/in/siddharth-nayak](https://www.linkedin.com/in/siddharth-nayak-a6a175186)
 
 ---
 
