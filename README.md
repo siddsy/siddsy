@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Siddharth Nayak</h1>
 <h3 align="center">Software Engineer | Data Enthusiast | Finance-Savvy Technologist</h3>
 
----
-
-<h3>💡 I’m a Computer Science graduate with a Master's in Applied Finance. I enjoy building scalable backend systems, automating data workflows, and working on real-time integrations. Whether it's optimizing APIs, visualizing insights, or debugging systems under pressure, I bring a curious and collaborative mindset to every project.</h3>
----
 
 🛠️ Languages & Tools:
 
