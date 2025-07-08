@@ -4,17 +4,6 @@
 ---
 
 💡 I’m a Computer Science graduate with a Master's in Applied Finance. I enjoy building scalable backend systems, automating data workflows, and working on real-time integrations. Whether it's optimizing APIs, visualizing insights, or debugging systems under pressure, I bring a curious and collaborative mindset to every project.
-
-🔭 I’m currently working on:
-- ⚙️ Automating data pipelines with Python & Airflow
-- 🧠 Building an AI-powered trading system using Freqtrade
-- ☁️ Exploring serverless architectures on AWS & GCP
-
-🌱 I’m learning:
-- System design patterns for scalable applications
-- Advanced cloud DevOps practices
-- Clean architecture & testing for Python APIs
-
 ---
 
 🛠️ Languages & Tools:
@@ -38,6 +27,17 @@
 </p>
 
 ---
+🔭 I’m currently working on:
+- ⚙️ Automating data pipelines with Python & Airflow
+- 🧠 Building an AI-powered trading system using Freqtrade
+- ☁️ Exploring serverless architectures on AWS & GCP
+
+🌱 I’m learning:
+- System design patterns for scalable applications
+- Advanced cloud DevOps practices
+- Clean architecture & testing for Python APIs
+
+
 
 📌 Featured Projects:
 
