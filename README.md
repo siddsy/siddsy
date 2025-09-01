@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Siddharth Nayak</h1>
-<h3 align="center">Software Engineer | Data Enthusiast | Finance-Savvy Technologist</h3>
+<h3 align="center">Software Engineer | Data Analyst | Finance Enthusiast</h3>
 
 
 🛠️ Languages & Tools:
@@ -24,7 +24,7 @@
 
 ---
 🔭 I’m currently working on:
-- 🧠 Building an AI-powered trading system using Freqtrade
+- 🧠 Building AI Automation Workflows and Agents
 
 
 🌱 I’m learning:
