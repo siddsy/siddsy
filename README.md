@@ -42,7 +42,7 @@
 ---
 
 📫 How to reach me:
-- 🌐 Website: https://siddharthnayak.pythonanywhere.com
+- 🌐 Website: https://siddsy.pro
 - 📧 Email: siddharthnayak128@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/siddharth-nayak](https://www.linkedin.com/in/siddharth-nayak-a6a175186)
 
