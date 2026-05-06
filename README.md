@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Siddharth Nayak</h1>
+<h1 align="center">Hi there 👋, I'm Sid</h1>
 <h3 align="center">Software Engineer | Data Analyst | Finance Enthusiast</h3>
 
 
